@@ -1,1 +1,1 @@
-# MNIST_GAN
+# Sketch_to_Image(Autoencoder)
